@@ -1,0 +1,9 @@
+.DS_Store
+*.TGA
+*.tga
+pbr_fs.glsl
+*minified.json
+lambo.min.json
+lamb.json
+*ultramin.json
+lambotest*
